@@ -1,0 +1,17 @@
+# Environnement virtuel Python
+venv/
+.venv/
+env/
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Fichiers d'environnement et secrets
+.env
+*.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
